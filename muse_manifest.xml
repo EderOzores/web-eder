@@ -1,0 +1,106 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.ederozores.es" resolutions="1x" timestamp="1503336844190">
+  <folder name="css">
+    <file name="site_global.css" crc="3892589638"/>
+    <file name="master_a-p_g_-maestra.css" crc="3888784379" ref="contacto:5:aviso-legal:6:politica-de-cookies:1:index:2:cv:proyectos:3:web-design:4"/>
+    <file name="nomq_preview_master_a-p_g_-maestra.css" crc="88327998" ref="contacto:5:aviso-legal:6:politica-de-cookies:1:index:2:cv:proyectos:3:web-design:4"/>
+    <file name="contacto.css" crc="71496225" ref="contacto"/>
+    <file name="nomq_contacto.css" crc="346001875" ref="contacto"/>
+    <file name="5.css" crc="3861082934" ref="5"/>
+    <file name="nomq_5.css" crc="50892474" ref="5"/>
+    <file name="aviso-legal.css" crc="4017391094" ref="aviso-legal"/>
+    <file name="nomq_aviso-legal.css" crc="3919746254" ref="aviso-legal"/>
+    <file name="6.css" crc="4122666727" ref="6"/>
+    <file name="nomq_6.css" crc="216224143" ref="6"/>
+    <file name="politica-de-cookies.css" crc="182769175" ref="politica-de-cookies"/>
+    <file name="nomq_politica-de-cookies.css" crc="64089229" ref="politica-de-cookies"/>
+    <file name="1.css" crc="3861082934" ref="1"/>
+    <file name="nomq_1.css" crc="50892474" ref="1"/>
+    <file name="index.css" crc="3952875185" ref="index"/>
+    <file name="nomq_index.css" crc="4085734257" ref="index"/>
+    <file name="2.css" crc="4243768708" ref="2"/>
+    <file name="nomq_2.css" crc="209775380" ref="2"/>
+    <file name="cv.css" crc="379822859" ref="cv"/>
+    <file name="nomq_cv.css" crc="233021070" ref="cv"/>
+    <file name="proyectos.css" crc="3962046600" ref="proyectos"/>
+    <file name="nomq_proyectos.css" crc="181400699" ref="proyectos"/>
+    <file name="3.css" crc="116570054" ref="3"/>
+    <file name="nomq_3.css" crc="534115307" ref="3"/>
+    <file name="web-design.css" crc="3820823615" ref="web-design"/>
+    <file name="nomq_web-design.css" crc="3781306830" ref="web-design"/>
+    <file name="4.css" crc="231076836" ref="4"/>
+    <file name="nomq_4.css" crc="322727014" ref="4"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="cv:index:proyectos:web-design:contacto:aviso-legal:politica-de-cookies:1:2:3:4:5:6"/>
+    <file name="museutils.js" crc="163421577" ref="cv:index:proyectos:web-design:contacto:aviso-legal:politica-de-cookies:1:2:3:4:5:6"/>
+    <file name="whatinput.js" crc="86476730" ref="cv:index:proyectos:web-design:contacto:aviso-legal:politica-de-cookies:1:2:3:4:5:6"/>
+    <file name="museconfig.js" crc="168988563" ref="cv:index:proyectos:web-design:contacto:aviso-legal:politica-de-cookies:1:2:3:4:5:6"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="cv:index:proyectos:web-design:contacto:aviso-legal:politica-de-cookies:1:2:3:4:5:6"/>
+    <file name="jquery.watch.js" crc="104486786" ref="cv:index:proyectos:web-design:contacto:aviso-legal:politica-de-cookies:1:2:3:4:5:6"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="cv:index:proyectos:web-design:contacto"/>
+    <file name="webpro.js" crc="3848665353" ref="cv:index:proyectos:web-design:contacto:aviso-legal:politica-de-cookies:1:2:3:4:5:6"/>
+    <file name="musewpdisclosure.js" crc="4275188064" ref="cv:index:proyectos:web-design:contacto:aviso-legal:politica-de-cookies:1:2:3:4:5:6"/>
+    <file name="html5shiv.js" crc="4241844378" ref="cv:index:proyectos:web-design:contacto:aviso-legal:politica-de-cookies:1:2:3:4:5:6"/>
+    <file name="jquery.museresponsive.js" crc="4146931122" ref="cv:index:proyectos:web-design:contacto:aviso-legal:politica-de-cookies:1:2:3:4:5:6"/>
+    <file name="require.js" crc="244322403" ref="cv:index:proyectos:web-design:contacto:aviso-legal:politica-de-cookies:1:2:3:4:5:6"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="index"/>
+    <file name="touchswipe.js" crc="404375771" ref="index"/>
+    <file name="form_check.php" crc="158155501" ref="contacto"/>
+    <file name="form_throttle.php" crc="3992970984" ref="contacto"/>
+    <file name="form_process.php" crc="4078697226" ref="contacto"/>
+    <file name="form-u54480.php" crc="366230256" ref="contacto"/>
+  </folder>
+  <folder name="images">
+    <file name="a-pág.-maestra-favicon.ico" crc="3907975532" ref="cv"/>
+    <file name="img_4854-u94-fr.jpg" crc="209143787" ref="cv:contacto"/>
+    <file name="facebook.svg" crc="494747857" seo="true" ref="cv"/>
+    <file name="facebook_poster_.png" crc="510193566" ref="cv"/>
+    <file name="twitter.svg" crc="3875070161" seo="true" ref="cv"/>
+    <file name="twitter_poster_.png" crc="3851595708" ref="cv"/>
+    <file name="linekedin.svg" crc="3868730142" seo="true" ref="cv"/>
+    <file name="linekedin_poster_.png" crc="522850335" ref="cv"/>
+    <file name="google.svg" crc="4135918047" seo="true" ref="cv"/>
+    <file name="google_poster_.png" crc="50237705" ref="cv"/>
+    <file name="behance.svg" crc="3977920395" seo="true" ref="cv"/>
+    <file name="behance_poster_.png" crc="3859730456" ref="cv"/>
+    <file name="img_4854-u94-fr2.jpg" crc="4095159291" ref="cv:contacto"/>
+    <file name="img_4854.jpg" crc="120534996" ref="cv:contacto"/>
+    <file name="flecha22sd.png" crc="4034485231" ref="cv"/>
+    <file name="flecha22sd-u17531-3-a-fr.png" crc="47648938" ref="cv"/>
+    <file name="blank.gif" crc="4208392903" ref="cv:index:proyectos:web-design:contacto:aviso-legal:politica-de-cookies:1:2:3:4:5:6"/>
+    <file name="1.jpg" crc="3976953611" seo="true" ref="index"/>
+    <file name="2.jpg" crc="533576764" seo="true" ref="index"/>
+    <file name="3.jpg" crc="49080078" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="32.jpg" crc="149191584" ref="index:proyectos"/>
+    <file name="panel 2.jpg" crc="163955607" ref="index:proyectos"/>
+    <file name="portfolioarchitecture-51.jpg" crc="4057093711" ref="index:proyectos"/>
+    <file name="3-u30671-r-fr.png" crc="4023814627" ref="proyectos"/>
+    <file name="panel 2-u30672-r-fr.png" crc="10343709" ref="proyectos"/>
+    <file name="portfolioarchitecture-51-u30673-r-fr.png" crc="250437133" ref="proyectos"/>
+    <file name="concurso.jpg" crc="3822683743" ref="proyectos"/>
+    <file name="concurso-u45352-r-fr.png" crc="96606224" ref="proyectos"/>
+    <file name="cam_12.jpg" crc="4004225974" ref="proyectos"/>
+    <file name="cam_12-u45378-r-fr.png" crc="3995323675" ref="proyectos"/>
+    <file name="portfolioarchitecture-27.jpg" crc="4048322655" ref="proyectos"/>
+    <file name="portfolioarchitecture-27-u45400-r-fr.png" crc="97391167" ref="proyectos"/>
+    <file name="miñopellets _ venta de estufas y calderas_.jpg" crc="3790620908" ref="web-design"/>
+    <file name="miñopellets _ venta de estufas y calderas_-u42750-r-fr.png" crc="63877810" ref="web-design"/>
+    <file name="eder.jpg" crc="3796795917" ref="web-design"/>
+    <file name="eder-u42751-r-fr.png" crc="285050515" ref="web-design"/>
+  </folder>
+  <file name="cv.html" crc="369767997" seo="true" mt="1503327924532" redirect="true"/>
+  <file name="index.html" crc="157539502" seo="true" mt="1502798005653" redirect="true"/>
+  <file name="proyectos.html" crc="452623751" seo="true" mt="1502798227568" redirect="true"/>
+  <file name="web-design.html" crc="190958397" seo="true" mt="1501171493270" redirect="true"/>
+  <file name="contacto.html" crc="3775043152" seo="true" mt="1503328001998" redirect="true"/>
+  <file name="aviso-legal.html" crc="358564545" seo="true" mt="1501171493270" redirect="true"/>
+  <file name="politica-de-cookies.html" crc="4213804105" seo="true" mt="1501171493270" redirect="true"/>
+  <file name="1.html" crc="404375184" seo="true" mt="1501172308629" redirect="true"/>
+  <file name="2.html" crc="244919375" seo="true" mt="1502798294553" redirect="true"/>
+  <file name="3.html" crc="3967676975" seo="true" mt="1501171966527" redirect="true"/>
+  <file name="4.html" crc="148708037" seo="true" mt="1501171704120" redirect="true"/>
+  <file name="5.html" crc="4166436655" seo="true" mt="1501172520811" redirect="true"/>
+  <file name="6.html" crc="425131657" seo="true" mt="1501176278049" redirect="true"/>
+</manifest>
